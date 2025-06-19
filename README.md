@@ -164,8 +164,8 @@ Pada project yang saya buat ini akan memiliki 3 Model Utama sebagai basis authen
 2. Clone Repository
 
 ```
-git clone https://github.com/siakad/siakad-pt.amdev-academy.id.git
-cd siakad-pt.amdev-academy.id
+git clone (https://github.com/Dinar-Aulia-Unpam/SIAKAD-PKBM--MUTIARA-ILMU.git)
+cd siakad-pkbm-mutiara-ilmu
 
 // Apabila Menggunakan Windows
 setup.bash
